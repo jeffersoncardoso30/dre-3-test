@@ -60,14 +60,11 @@ Antes de iniciar, você precisa configurar o arquivo `.env` com suas credenciais
 # Configurações do banco de dados
 POSTGRES_USER=
 POSTGRES_PASSWORD=
-POSTGRES_HOST=
 AIRFLOW_USER=
 AIRFLOW_PASSWORD=
 
 # Configurações do Airflow
 AIRFLOW_UID=
-AIRFLOW_GID=
-PYTHONASYNCIODEBUG=
 AIRFLOW_WWW_USER_USERNAME=
 AIRFLOW_WWW_USER_PASSWORD=
 ```
